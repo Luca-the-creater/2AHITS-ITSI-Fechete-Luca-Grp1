@@ -9,4 +9,4 @@ localPort = 5000
 externalPort = 80
 
 [nix]
-packages = ["csound", "tree", "wget"]
+packages = ["csound", "tree", "wget", "vimHugeX", "gdb", "hexedit"]
